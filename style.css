@@ -541,12 +541,13 @@
     background-color: white;
     width: 95%;
     height: 100vh;
-    top: -100rem;
+    top: 10rem;
+    left: -900px;
     
     transition: all 0.5s;
   }
   .active{
-    top: 10rem;
+    left: 0;
   }
   .menu-icon ul{
     flex-direction: column;
