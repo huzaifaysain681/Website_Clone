@@ -541,7 +541,7 @@
     background-color: white;
     width: 95%;
     height: 100vh;
-    top: -40rem;
+    top: -100rem;
     
     transition: all 0.5s;
   }
